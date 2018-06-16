@@ -1,4 +1,4 @@
-# git 教程
+# git hello world
 
  -feature-A
  -OK
